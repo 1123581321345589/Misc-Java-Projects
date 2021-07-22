@@ -1,0 +1,203 @@
+Time: 0
+Station: Station A
+Passenger@3d4eac69 On ----> Station J
+Passenger@42a57993 On ----> Station J
+Passenger@75b84c92 On ----> Station F
+Passenger@6bc7c054 On ----> Station J
+Passenger@232204a1 On ----> Station D
+Time: 10
+Station: Station B
+Passenger@4aa298b7 On ----> Station I
+Passenger@7d4991ad On ----> Station I
+Passenger@28d93b30 On ----> Station D
+Passenger@1b6d3586 On ----> Station J
+Passenger@4554617c On ----> Station J
+Passenger@74a14482 On ----> Station H
+Passenger@1540e19d On ----> Station B
+Passenger@677327b6 On ----> Station A
+Passenger@14ae5a5 On ----> Station D
+Passenger@7f31245a On ----> Station A
+Passenger@6d6f6e28 On ----> Station F
+Passenger@1540e19d Off
+Time: 20
+Station: Station C
+Passenger@135fbaa4 On ----> Station B
+Passenger@45ee12a7 On ----> Station C
+Passenger@330bedb4 On ----> Station D
+Passenger@2503dbd3 On ----> Station C
+Passenger@4b67cf4d On ----> Station F
+Passenger@7ea987ac On ----> Station D
+Passenger@12a3a380 On ----> Station F
+Passenger@29453f44 On ----> Station A
+Passenger@5cad8086 On ----> Station E
+Passenger@6e0be858 On ----> Station A
+Passenger@61bbe9ba On ----> Station E
+Passenger@610455d6 On ----> Station I
+Passenger@511d50c0 On ----> Station C
+Passenger@60e53b93 On ----> Station J
+Passenger@5e2de80c On ----> Station G
+Passenger@1d44bcfa On ----> Station H
+Passenger@266474c2 On ----> Station G
+Passenger@6f94fa3e On ----> Station J
+Passenger@5e481248 On ----> Station G
+Passenger@66d3c617 On ----> Station G
+Passenger@63947c6b On ----> Station I
+Passenger@2b193f2d On ----> Station F
+Passenger@355da254 On ----> Station I
+Passenger@4dc63996 On ----> Station H
+Passenger@d716361 On ----> Station J
+Passenger@45ee12a7 Off
+Passenger@2503dbd3 Off
+Passenger@511d50c0 Off
+Time: 30
+Station: Station D
+Passenger@6ff3c5b5 On ----> Station J
+Passenger@3764951d On ----> Station C
+Passenger@4b1210ee On ----> Station G
+Passenger@4d7e1886 On ----> Station B
+Passenger@3cd1a2f1 On ----> Station I
+Passenger@2f0e140b On ----> Station E
+Passenger@7440e464 On ----> Station E
+Passenger@49476842 On ----> Station I
+Passenger@78308db1 On ----> Station A
+Passenger@27c170f0 On ----> Station H
+Passenger@5451c3a8 On ----> Station C
+Passenger@2626b418 On ----> Station A
+Passenger@5a07e868 On ----> Station G
+Passenger@76ed5528 On ----> Station G
+Passenger@2c7b84de On ----> Station B
+Passenger@3fee733d On ----> Station A
+Passenger@5acf9800 On ----> Station G
+Passenger@4617c264 On ----> Station D
+Passenger@36baf30c On ----> Station B
+Passenger@7a81197d On ----> Station J
+Passenger@5ca881b5 On ----> Station F
+Passenger@24d46ca6 On ----> Station A
+Passenger@4517d9a3 On ----> Station C
+Passenger@372f7a8d On ----> Station C
+Passenger@232204a1 Off
+Passenger@28d93b30 Off
+Passenger@14ae5a5 Off
+Passenger@330bedb4 Off
+Passenger@7ea987ac Off
+Passenger@4617c264 Off
+Time: 40
+Station: Station E
+Passenger@2f92e0f4 On ----> Station J
+Passenger@28a418fc On ----> Station A
+Passenger@5305068a On ----> Station E
+Passenger@1f32e575 On ----> Station D
+Passenger@279f2327 On ----> Station F
+Passenger@2ff4acd0 On ----> Station A
+Passenger@54bedef2 On ----> Station D
+Passenger@5caf905d On ----> Station D
+Passenger@27716f4 On ----> Station G
+Passenger@8efb846 On ----> Station J
+Passenger@2a84aee7 On ----> Station B
+Passenger@a09ee92 On ----> Station E
+Passenger@30f39991 On ----> Station I
+Passenger@452b3a41 On ----> Station A
+Passenger@4a574795 On ----> Station H
+Passenger@f6f4d33 On ----> Station G
+Passenger@23fc625e On ----> Station C
+Passenger@3f99bd52 On ----> Station J
+Passenger@4f023edb On ----> Station B
+Passenger@3a71f4dd On ----> Station H
+Passenger@7adf9f5f On ----> Station J
+Passenger@85ede7b On ----> Station H
+Passenger@5674cd4d On ----> Station J
+Passenger@63961c42 On ----> Station B
+Passenger@65b54208 On ----> Station A
+Passenger@1be6f5c3 On ----> Station G
+Passenger@6b884d57 On ----> Station G
+Passenger@38af3868 On ----> Station G
+Passenger@77459877 On ----> Station E
+Passenger@5b2133b1 On ----> Station D
+Passenger@72ea2f77 On ----> Station H
+Passenger@33c7353a On ----> Station H
+Passenger@681a9515 On ----> Station I
+Passenger@3af49f1c On ----> Station A
+Passenger@19469ea2 On ----> Station I
+Passenger@13221655 On ----> Station H
+Passenger@2f2c9b19 On ----> Station E
+Passenger@31befd9f On ----> Station I
+Passenger@1c20c684 On ----> Station G
+Passenger@1fb3ebeb On ----> Station C
+Passenger@548c4f57 On ----> Station H
+Passenger@1218025c On ----> Station C
+Passenger@816f27d On ----> Station B
+Passenger@87aac27 On ----> Station A
+Passenger@3e3abc88 On ----> Station I
+Passenger@6ce253f1 On ----> Station F
+Passenger@53d8d10a On ----> Station A
+Passenger@e9e54c2 On ----> Station J
+Passenger@5cad8086 Off
+Passenger@61bbe9ba Off
+Passenger@2f0e140b Off
+Passenger@7440e464 Off
+Passenger@5305068a Off
+Passenger@a09ee92 Off
+Passenger@77459877 Off
+Passenger@2f2c9b19 Off
+Time: 50
+Station: Station F
+Passenger@65ab7765 On ----> Station B
+Passenger@1b28cdfa On ----> Station G
+Passenger@eed1f14 On ----> Station C
+Passenger@7229724f On ----> Station C
+Passenger@4c873330 On ----> Station H
+Passenger@119d7047 On ----> Station C
+Passenger@776ec8df On ----> Station J
+Passenger@4eec7777 On ----> Station A
+Passenger@3b07d329 On ----> Station C
+Passenger@41629346 On ----> Station A
+Passenger@404b9385 On ----> Station H
+Passenger@6d311334 On ----> Station J
+Passenger@682a0b20 On ----> Station H
+Passenger@3d075dc0 On ----> Station I
+Passenger@214c265e On ----> Station C
+Passenger@448139f0 On ----> Station J
+Passenger@7cca494b On ----> Station F
+Passenger@7ba4f24f On ----> Station B
+Passenger@3b9a45b3 On ----> Station D
+Passenger@7699a589 On ----> Station C
+Passenger@58372a00 On ----> Station A
+Passenger@4dd8dc3 On ----> Station J
+Passenger@6d03e736 On ----> Station B
+Passenger@568db2f2 On ----> Station I
+Passenger@378bf509 On ----> Station B
+Passenger@5fd0d5ae On ----> Station B
+Passenger@2d98a335 On ----> Station J
+Passenger@16b98e56 On ----> Station B
+Passenger@7ef20235 On ----> Station E
+Passenger@27d6c5e0 On ----> Station C
+Passenger@4f3f5b24 On ----> Station B
+Passenger@15aeb7ab On ----> Station D
+Passenger@7b23ec81 On ----> Station E
+Passenger@6acbcfc0 On ----> Station B
+Passenger@5f184fc6 On ----> Station F
+Passenger@3feba861 On ----> Station H
+Passenger@5b480cf9 On ----> Station I
+Passenger@6f496d9f On ----> Station I
+Passenger@723279cf On ----> Station I
+Passenger@10f87f48 On ----> Station H
+Passenger@b4c966a On ----> Station H
+Passenger@2f4d3709 On ----> Station C
+Passenger@4e50df2e On ----> Station H
+Passenger@1d81eb93 On ----> Station H
+Passenger@7291c18f On ----> Station I
+Passenger@34a245ab On ----> Station G
+Passenger@7cc355be On ----> Station D
+Passenger@6e8cf4c6 On ----> Station A
+Passenger@12edcd21 On ----> Station F
+Passenger@34c45dca On ----> Station I
+Passenger@75b84c92 Off
+Passenger@6d6f6e28 Off
+Passenger@5ca881b5 Off
+Passenger@4b67cf4d Off
+Passenger@12a3a380 Off
+Passenger@2b193f2d Off
+Passenger@6ce253f1 Off
+Passenger@279f2327 Off
+Passenger@7cca494b Off
+Passenger@5f184fc6 Off
